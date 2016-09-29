@@ -18,6 +18,6 @@
         session_destroy(); 
     }
     
-    header("Location: http://teamcodeorange.com/stanthescout/login.php");
+    header("Location: login.php");
 
 ?>
